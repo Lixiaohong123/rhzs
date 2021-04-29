@@ -17,6 +17,6 @@ public class TestController {
 
     @RequestMapping("/user1")
     public String getpage(){
-        return  "index1";
+        return  "index";
     }
 }
