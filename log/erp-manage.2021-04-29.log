@@ -1,0 +1,22 @@
+2021-04-29 08:51:09.253 [restartedMain] - [INFO ] - com.rhzs.erp.ManageApplication - Starting ManageApplication on MS-CKFVDZKTAMFH with PID 9220 (D:\erp-code\erp-manage\target\classes started by Administrator in D:\erp-code)
+2021-04-29 08:51:09.263 [restartedMain] - [INFO ] - com.rhzs.erp.ManageApplication - The following profiles are active: dev
+2021-04-29 08:51:09.393 [restartedMain] - [INFO ] - o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in C:\Users\Administrator\.m2\repository\org\glassfish\jaxb\jaxb-runtime\2.3.2\jaxb-runtime-2.3.2.jar referenced one or more files that do not exist: file:/C:/Users/Administrator/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/jakarta.xml.bind-api-2.3.2.jar,file:/C:/Users/Administrator/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/txw2-2.3.2.jar,file:/C:/Users/Administrator/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/istack-commons-runtime-3.0.8.jar,file:/C:/Users/Administrator/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/stax-ex-1.8.1.jar,file:/C:/Users/Administrator/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/FastInfoset-1.2.16.jar,file:/C:/Users/Administrator/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/jakarta.activation-api-1.2.1.jar
+2021-04-29 08:51:09.393 [restartedMain] - [INFO ] - o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-29 08:51:09.393 [restartedMain] - [INFO ] - o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-29 08:51:12.383 [restartedMain] - [INFO ] - o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-04-29 08:51:12.403 [restartedMain] - [INFO ] - org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2021-04-29 08:51:12.403 [restartedMain] - [INFO ] - org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-04-29 08:51:12.403 [restartedMain] - [INFO ] - org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2021-04-29 08:51:12.643 [restartedMain] - [INFO ] - o.a.c.c.ContainerBase.[Tomcat].[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2021-04-29 08:51:12.643 [restartedMain] - [INFO ] - org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3250 ms
+2021-04-29 08:51:13.143 [restartedMain] - [INFO ] - c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2021-04-29 08:51:13.473 [restartedMain] - [INFO ] - com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2021-04-29 08:51:14.773 [restartedMain] - [INFO ] - o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-29 08:51:15.173 [restartedMain] - [INFO ] - o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2021-04-29 08:51:15.723 [restartedMain] - [INFO ] - o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2021-04-29 08:51:15.793 [restartedMain] - [INFO ] - org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2021-04-29 08:51:15.863 [restartedMain] - [INFO ] - o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path '/api'
+2021-04-29 08:51:15.873 [restartedMain] - [INFO ] - com.rhzs.erp.ManageApplication - Started ManageApplication in 8.776 seconds (JVM running for 18.572)
+2021-04-29 08:51:44.357 [http-nio-8081-exec-1] - [INFO ] - o.a.c.c.ContainerBase.[Tomcat].[localhost].[/api] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-29 08:51:44.358 [http-nio-8081-exec-1] - [INFO ] - org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-04-29 08:51:44.380 [http-nio-8081-exec-1] - [INFO ] - org.springframework.web.servlet.DispatcherServlet - Completed initialization in 22 ms

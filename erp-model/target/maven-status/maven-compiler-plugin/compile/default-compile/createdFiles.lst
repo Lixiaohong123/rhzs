@@ -1,0 +1,5 @@
+com\rhzs\erp\model\pojo\SysUserDO.class
+com\rhzs\erp\model\service\impl\SysUserServiceImpl.class
+com\rhzs\erp\model\tools\GeneratorDb.class
+com\rhzs\erp\model\mapper\SysUserMapper.class
+com\rhzs\erp\model\service\ISysUserService.class
